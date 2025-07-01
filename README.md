@@ -7,4 +7,4 @@
 4.  Kemudian yang terakhir jalankan cloning.
 
 
-sudah selesai untuk penambahan UTSAS-Pemrograman-web
+sudah selesai untuk penambahan UAS nya (nama username dan password nya = admin dan 123456).
