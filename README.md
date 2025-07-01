@@ -1,4 +1,4 @@
-# U# Petujuk Installasi
+# # Petujuk Installasi
 
 1.  Pastikan di komputer sudah terinstall git (download di git-scm)
 2.  Pastikan memiliki akun di github.com
